@@ -19,10 +19,10 @@ A zipped TSV file of variants is available in /data/variants.tsv.zip. Each row i
 ## Instructions
 To run:
 1. `npm install` in your terminal
-2. mysql.server start` to start up sql server
-3. mysql -u root < database/schema.sql` to import schema
-4. npm run server` to start server
-5. npm run start` to start client
+2. `mysql.server start` to start up sql server
+3. `mysql -u root < database/schema.sql` to import schema
+4. `npm run server` to start server
+5. `npm run start` to start client
 
 Test options
 1. `npm run storybook`
