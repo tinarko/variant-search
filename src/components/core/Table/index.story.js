@@ -25,7 +25,7 @@ const rowComponent = data => (
   </tr>
 );
 
-storiesOf('Global Core Components/v2/Table', module)
+storiesOf('Global Core Components/Table', module)
   .add('Standard', () => (
     <Table
       data={data}
