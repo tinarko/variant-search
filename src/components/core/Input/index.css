@@ -1,0 +1,28 @@
+.Input__component input {
+  border: 1px solid #aaaaaa;
+}
+
+.Input__component input:active,
+.Input__component input:focus {
+  border-color: #0bb3a3;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  color: #0bb3a3;
+  outline: none;
+}
+
+.Input__component input:active + div svg,
+.Input__component input:focus + div svg {
+  transition: all 0.2s ease-out;
+  fill: #0bb3a3;
+}
+
+.Input__component.file__upload {
+  border: 2px dashed rgba(0, 0, 0, 0.2);
+  color: rgba(0, 0, 0, 0.2);
+  transition: border 0.2s ease-out, color 0.2s ease-out;
+}
+
+.Input__component.file__upload:hover {
+  border-color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.6);
+}
