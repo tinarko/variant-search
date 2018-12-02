@@ -27,3 +27,9 @@ To run:
 Test options
 1. `npm run storybook`
 2. `npm run test`
+
+## To dos
+- add server unit tests
+- add more stuff to database by writing a python script... currently only part of the datasource is represented
+- beautify auto-suggest feature
+- one day: figure out how to cache stuff in the server so that the auto-suggest feature uses gene-cache 
