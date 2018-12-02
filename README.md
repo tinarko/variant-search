@@ -32,3 +32,4 @@ Test options
 - beautify auto-suggest feature
 - one day: figure out how to cache stuff in the server so that the auto-suggest feature uses gene-cache 
 - add expand / collapse option to "nucleotide change" column
+- deploy
