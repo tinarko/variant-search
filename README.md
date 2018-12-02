@@ -28,7 +28,7 @@ Test options
 1. `npm run storybook`
 2. `npm run test`
 
-## To dos
+## To dos / Future improvements...
 - add server unit tests
 - add more stuff to database by writing a python script... currently only part of the datasource is represented
 - beautify auto-suggest feature
