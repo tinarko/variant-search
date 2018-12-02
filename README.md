@@ -1,8 +1,6 @@
 # Variant Search
 
-## Assignment
-
-Create a web application that allows a user to search for genomic variants by gene name and display the results in a tabular view.
+A web application that allows a user to search for genomic variants by gene name and display the results in a tabular view.
 
 ## Features
 
